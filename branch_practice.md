@@ -1,23 +1,23 @@
 # Filmography
 
-## Spyder-Man
+## Spider-Man
 
 - 2002, Tobey Maguire
 
-## Spyder-Man2
+## Spider-Man2
 
 - 2004, Tobey Maguire
 
-## Spyder-Man3
+## Spider-Man3
 
 - 2007, Tobey Maguire
 
 
-## The Amazing Spyder-Man 
+## The Amazing Spider-Man 
 
 - 2012, Andrew Garfield
 
 
-## The Amazing Spyder-Man 2 
+## The Amazing Spider-Man 2 
 
 - 2014, Andrew Garfield
