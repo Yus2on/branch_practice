@@ -12,3 +12,8 @@
 
 - 2007, Tobey Maguire
 
+
+## The Amazing Spyder-Man 
+
+- 2012, Andrew Garfield
+
