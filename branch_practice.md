@@ -17,3 +17,7 @@
 
 - 2012, Andrew Garfield
 
+
+## The Amazing Spyder-Man 2 
+
+- 2014, Andrew Garfield
